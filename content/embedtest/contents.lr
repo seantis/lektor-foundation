@@ -2,33 +2,33 @@ _model: embedtest
 ---
 title: Kitchen Sink
 ---
-sections: 
+sections:
 ---
-accordions:
+components:
 
 #### accordion ####
-all_closed: 
+all_closed:
 ----
 items:
 
 ##### accordion-item #####
-title: sfas
+title: Accordion Item 1
 -----
 open: yes
 -----
-content: dsfsdfsdf
+content: This is a accordion component item
 ##### accordion-item #####
-title: dfsdf
+title: Accordion Item 2
 -----
-open: 
+open:
 -----
-content: sdfsdfsd
+content: This is a accordion component item
 #### slider ####
 start: 10
 ----
 end: 50
 ----
-vertical: 
+vertical:
 #### callout ####
 content:
 
@@ -36,9 +36,9 @@ content:
 
 hello
 ----
-class: 
+class:
 ----
-closable: 
+closable:
 #### callout ####
 content:
 
@@ -48,7 +48,7 @@ hello
 ----
 class: secondary
 ----
-closable: 
+closable:
 #### callout ####
 content:
 
@@ -68,7 +68,7 @@ hello
 ----
 class: success
 ----
-closable: 
+closable:
 #### callout ####
 content:
 
@@ -78,7 +78,7 @@ hello
 ----
 class: warning
 ----
-closable: 
+closable:
 #### callout ####
 content:
 
@@ -88,13 +88,13 @@ hello
 ----
 class: alert
 ----
-closable: 
+closable:
 #### table ####
-hover: 
+hover:
 ----
-stack: 
+stack:
 ----
-scroll: 
+scroll:
 ----
 headings:
 
